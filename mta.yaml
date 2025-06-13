@@ -1,6 +1,6 @@
 _schema-version: "3.2"
 ID: "TESTPACKAGE"
-version: "1.0.0"
+version: "0.0.1"
 description: "A description of your CPI project"
 modules:
   - name: "IFLOW-1"
