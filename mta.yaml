@@ -1,5 +1,5 @@
 _schema-version: "3.2"
-ID: "your.project.id"
+ID: "TESTPACKAGE"
 version: "1.0.1"
 description: "A description of your CPI project"
 modules:
