@@ -3,7 +3,7 @@ ID: "your.project.id"
 version: "1.0.0"
 description: "A description of your CPI project"
 modules:
-  - name: "IFLOW-2"
+  - name: "IFLOW-1"
     type: com.sap.application.content
     path: "IFLOW-1/src"
     parameters:
