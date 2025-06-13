@@ -1,0 +1,10 @@
+_schema-version: "3.2"
+ID: "your.project.id"
+version: "1.0.0"
+description: "A description of your CPI project"
+modules:
+  - name: "IFlow2"
+    type: com.sap.application.content
+    path: "IFLOW-2\src\main\resources"
+    parameters:
+      content-target: true
