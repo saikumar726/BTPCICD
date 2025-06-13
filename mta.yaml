@@ -4,7 +4,7 @@ version: "0.0.1"
 description: "A description of your CPI project"
 modules:
   - name: "DEMOPACKAGE"
-    type: com.sap.application.content
+    type: com.sap.integration
     path: "TEST-1/src"
     parameters:
       content-target: true
